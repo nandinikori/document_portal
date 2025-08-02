@@ -21,4 +21,13 @@ git init
 
 ### Git repo 
 
-https://github.com/sunnysavita10/document_portal
+https://github.com/nandinikori/document_portal
+
+## project Requirements 
+
+1. LLM Models - groq (free) , openai(paid), gemini(free for 15 days), claude(paid), hugging face(free), ollama(free-local setup required)
+
+2. Embedding models - openai , hugging face , gemini
+
+3. Vector Data base -inmemory, ondisk, cloudbased
+
